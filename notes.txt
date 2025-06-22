@@ -1,0 +1,53 @@
+APIs in python
+application programing interface
+programmes used to create to get live data from web and use that for our own programme
+
+ex - yahoo weather has its yahoo weather api in which u can tap into and get data u need for ur work
+basically get the in moment data to run our project or whatever
+api.coinbase.com
+crypto data
+u have to get permission on web to get the data, its called teller and it will make link between api and us
+
+using requests lib to get api req
+response coses are like info about the status
+ex - 404 - site not reached
+1xx: hold on
+2xx = here u go
+3xx: u dont have the permission
+4xx = u screwed up
+5xx = the server screwed up
+httpstatuses.com u can check
+
+some api needs parameters like sunset or sunrise api, there u have to give lat and long of the location and u'll get the value
+always head over to the doc of the web for further detail and syntax
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
